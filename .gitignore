@@ -5,3 +5,4 @@ s3-bucket.txt
 cf-url.txt
 cloudfront.csv
 s3-bucket.csv
+vendor/
